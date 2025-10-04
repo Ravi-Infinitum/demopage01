@@ -148,7 +148,7 @@
             :style="{ height: isMobile ? '300px' : '600px' }"
           >
             <iframe 
-              src="https://www.quikhost3d.com/viewer/68db1cc95e4c6f59880792d3?embed=true" 
+              src="https://www.quikhost3d.com/viewer/68e12c4d55dd7b65f11e5908?embed=true" 
               width="100%" 
               height="100%" 
               frameborder="0" 
