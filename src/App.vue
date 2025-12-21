@@ -148,7 +148,7 @@
             :style="{ height: isMobile ? '300px' : '600px' }"
           >
             <iframe 
-              src="https://www.quikhost3d.com/viewer/690bb1a9bec51269c9b7adfe?embed=true" 
+              src="https://app.3dinfinitum.com/viewer/6947d9440ce1b04cacebecf8?embed=true" 
               width="100%" 
               height="100%" 
               frameborder="0" 
