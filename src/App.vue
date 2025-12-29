@@ -178,7 +178,7 @@
               :class="show3DModel ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'"
             >
               <iframe
-                src="https://app.3dinfinitum.com/viewer/6947d7e50ce1b04cacebecc8?embed=true"
+                src="https://app.3dinfinitum.com/viewer/6952f9afbc3bdc6e258026c2?embed=true"
                 class="w-full h-full"
                 allowfullscreen
               ></iframe>
